@@ -53,7 +53,7 @@ Bisa Anda cek di http://wa-net.coding4ever.net/
 | Delete chat (semua atau berdasarkan nomor WA)                                                                                                                                                                                                                                                                             |      ✅      |       ✅      |
 | Pengesetan status                                                                                                                                                                                                                                                                                                         |      ✅      |       ❌      |
 | Logout                                                                                                                                                                                                                                                                                                                    |      ✅      |       ✅      |
-| Bisa dengan mudah diintegrasikan dengan semua jenis database
+| Bisa dengan mudah diintegrasikan dengan semua jenis database                                                                                                                                                                                                                                                              |      ✅      |       ✅      |
 
 ## Melaporkan Bug atau Error
 
